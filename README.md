@@ -1,4 +1,4 @@
-# IBMpythonproject
+# IBM python project
 Python Project for Data Science - Tesla vs GameStop stock &amp; revenue trends
 
 This project is part of Coursera IBM Data Analyst, where we use yfinance (open-source tool that uses Yahoo's publicly available APIs) to extract Tesla/GameStop stock data and Webscraping techniques (using BeautifulSoup and Pandas) to extract Tesla/GameStop revenue data, which is then further cleaned to remove commas,  '$', null or empty strings from the DataFrame.
